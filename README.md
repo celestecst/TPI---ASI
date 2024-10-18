@@ -25,9 +25,7 @@
 ---
 <h4>🛠INSTALACIÓN</h4>
 <ol>
-<li><b>Clonar el repositorio:</b> <pre><code> clone https://github.com/usuario/repo-vtv.git</code></pre></li>
-<li><b>Navegar al directorio del proyecto:</b><pre><code>cd repo-vtv</code></pre></li>  
-</ol>
+<li><b>Clonar el repositorio:</b> <pre><code> clone https://github.com/celestecst/TPI---ASI.git</code></pre></li></ol>
 
 ---
 <h4>📑ENTREGAS</h4>
