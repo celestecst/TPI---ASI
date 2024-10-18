@@ -1,6 +1,6 @@
 <h1 align="center"> Verificación Técnica Vehicular (VTV) - Trabajo Práctico Integrador 2024</h1>
 <p align="center">Este repositorio contiene la documentación del Sistema de Gestión para una Planta de Verificación Técnica Vehicular (VTV), desarrollado como parte del Trabajo Integrador 2024. El objetivo principal es modelar el dominio del problema y especificar los requisitos de un sistema de software que automatice y facilite la gestión de los procesos de la planta de VTV.</p>
-<h3 align="center"> 🚧 PROYECTO EN CONSTRUCCIÓN 🚧 </h3>
+<h2 align="center"> 🚧 PROYECTO EN CONSTRUCCIÓN 🚧 </h2>
 
 ---
 <h4>📝DESCRIPCIÓN</h4>
